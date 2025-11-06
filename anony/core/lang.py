@@ -18,7 +18,7 @@ lang_codes = {
     "hi": "Hindi",
     "ja": "Japanese",
     "my": "Burmese",
-    "pa": "Persian",
+    "pa": "Punjabi",
     "pt": "Portuguese",
     "ru": "Russian",
     "zh": "Chinese",
